@@ -1,1 +1,1 @@
-# privateSite
+# privatesite
